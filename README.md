@@ -29,24 +29,24 @@ The app follows the **Model-View-Controller (MVC)** design pattern, ensuring cle
 
 ```
 WaterDelivery-App/
-│── src/main/java/com/waterlife
-│ │── controller # Spring MVC Controllers
-│ │── dao # Data Access Objects
-│ │── entities # Entity Classes (Hibernate)
-│ │── service # Business Logic Layer
+│── src/main/java/com/waterapp
+│ │── controller       # Spring MVC Controllers
+│ │── dao              # Data Access Objects
+│ │── entities         # Entity Classes (Hibernate)
+│ │── service          # Business Logic Layer
 │
 │── src/main/webapp
 │ │── WEB-INF/
-│ │ │── views/ # JSP Files (UI Pages)
-│ │ │── web.xml # Deployment Descriptor
-│ │ │── spring-servlet.xml  #Database Setup & Project Config file
+│ │ │── views/         # JSP Files (UI Pages)
+│ │ │── web.xml        # Deployment Descriptor
+│ │ │── spring-servlet.xml      #Database Setup & Project Config file
 │ │
-│ │── resources/ # CSS, JS, Images
+│ │── resources/       # CSS, JS, Images
 │
-│── pom.xml # Maven Dependencies
-│── screenshot  #website designs
+│── pom.xml            # Maven Dependencies
+│── screenshot         #website designs
 │── LICENSE
-│── README.md # Project Documentation
+│── README.md          # Project Documentation
 ```
 
 ---
