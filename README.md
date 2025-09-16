@@ -72,7 +72,7 @@ String username = "your-username";
 String password = "your-password";
 ```
 
-#### 3. Insert in table cart manually
+#### 3. Insert in table products manually
 ```bash
 INSERT INTO products (product_id,product, quantity, price) 
 VALUES 
@@ -104,11 +104,26 @@ http://localhost:8080/WaterDelivery-App/  //update poet if different
 #### Home/Index page
 <img src="screenshot/home.png" alt="home" align="center">
 
-#### Add New Task
-<img src="screenshot/add_task.png" alt="addtask" align="center">
+#### Products
+<img src="screenshot/order.png" alt="products" align="center">
 
-#### Update Task
-<img src="screenshot/update_task.png" alt="home" align="center">
+#### About Us
+<img src="screenshot/about.png" alt="about" align="center">
+
+#### Contact Us
+<img src="screenshot/contact.png" alt="contact" align="center">
+
+#### Login Page
+<img src="screenshot/login.png" alt="login" align="center">
+
+#### SignUp page
+<img src="screenshot/signup.png" alt="signUp" align="center">
+
+#### Your Cart
+<img src="screenshot/cart.png" alt="cart" align="center">
+
+#### Order History
+<img src="screenshot/orderHistory.png" alt="orderHistory" align="center">
 
 ---
 
